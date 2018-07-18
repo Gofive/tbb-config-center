@@ -1,1 +1,7 @@
-message: 豚宝宝课件服务配置文件
+message: 更新：此条消息来自于cofig server
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
